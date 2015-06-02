@@ -1,0 +1,42 @@
+h1 {
+	text-align: center; color: rgb(41, 72, 96);
+}
+body {
+	font-family: verdana; font-size: 14px;
+}
+.lesson {
+	padding: 10px; border-radius: 20px; color: white; background-color: rgb(41, 72, 96);
+}
+.session {
+	padding: 10px; border-radius: 20px; text-align: center; color: white; background-color: rgb(41, 72, 96);
+}
+h2 {
+	margin: 10px;
+}
+.concept {
+	margin: 10px; padding: 4px; border-radius: 4px; color: black; background-color: rgb(223, 234, 241);
+}
+.concept-title {
+	margin: 8px; text-align: left; color: black; font-size: 16px;
+}
+.concept-description {
+	margin: 6px; font-weight: lighter;
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+.tab {
+	margin-left: 40px;
+}
+.tab2 {
+	margin-left: 60px;
+}
+.tab3 {
+	margin-left: 80px;
+}
+.tab4 {
+	margin-left: 120px;
+}
